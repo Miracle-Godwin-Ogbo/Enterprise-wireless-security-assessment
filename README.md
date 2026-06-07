@@ -96,7 +96,6 @@ The objective of this project was to conduct a full wireless security assessment
 * Security Architecture Redesign
 
 
-
 ## MITRE ATT&CK Techniques Mapped
 
 | MITRE ID  | Technique               |
