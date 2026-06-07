@@ -113,27 +113,29 @@ The objective of this project was to conduct a full wireless security assessment
 
 ### Wireless Adapter Detection
 
-![Wireless Adapter Detection](screenshots/wireless-adapter-detection.png)
+![Wireless Adapter Detection](screenshots_wireless_adapter_detection.png)
+
+![Wireless Adapter Detection2](screenshotswireless_adapter_detection2.png)
 
 ### Monitor Mode Activation
 
-![Monitor Mode Activation](screenshots/monitor-mode-activation.png)
+![Monitor Mode Activation](screenshots_monitor_mode_activation.png)
 
 ### Wireless Reconnaissance Results
 
-![Wireless Reconnaissance](screenshots/wireless-reconnaissance-results.png)
+![Wireless Reconnaissance](screenshots_wireless_reconnaissance_results.png)
 
 ### Target Network Analysis
 
-![Target Network Analysis](screenshots/target-network-analysis.png)
+![Target Network Analysis](screenshots_target_network_analysis.png)
 
 ### Handshake Capture Assessment
 
-![Handshake Capture](screenshots/handshake-capture-success.png)
+![Handshake Capture](screenshots_handshake_capture_success.png)
 
 ### Wireless Traffic Analysis
 
-![Wireshark Analysis](screenshots/live-packet-capture.png)
+![Wireshark Analysis](screenshots_live_packet_capture.png)
 
 ---
 
@@ -148,9 +150,9 @@ The objective of this project was to conduct a full wireless security assessment
 
 ---
 
-## Report
+## Full Assessment Report
 
-The complete assessment report is available within the `report/` directory.
+📄 [Download Full Report](report/NetworkShield_Wireless_Security_Assessment_Report.pdf)
 
 ---
 
