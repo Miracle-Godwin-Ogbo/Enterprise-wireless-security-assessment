@@ -112,6 +112,8 @@ The objective of this project was to conduct a full wireless security assessment
 
 ### Wireless Adapter Detection
 
+![Wireless Adapter Detection2](screenshotswireless_adapter_detection.jpeg)
+
 ![Wireless Adapter Detection2](screenshotswireless_adapter_detection.png)
 
 ### Monitor Mode Activation
