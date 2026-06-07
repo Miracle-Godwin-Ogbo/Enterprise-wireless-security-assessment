@@ -8,7 +8,7 @@ The project focused on evaluating wireless security weaknesses, attacker methodo
 
 The assessment was performed in a controlled and authorized laboratory environment for educational and defensive cybersecurity purposes.
 
----
+
 
 ## Project Task
 
@@ -43,7 +43,7 @@ The objective of this project was to conduct a full wireless security assessment
 * Executive Briefing Report
 * 30-60-90 Day Remediation Plan
 
----
+
 
 ## Assessment Environment
 
@@ -62,7 +62,7 @@ The objective of this project was to conduct a full wireless security assessment
 | Wireshark            | Wireless Traffic Analysis               |
 | Kali Linux Utilities | Wireless Interface Management           |
 
----
+
 
 ## Key Assessment Activities
 
@@ -95,7 +95,7 @@ The objective of this project was to conduct a full wireless security assessment
 * Wireless Risk Assessment
 * Security Architecture Redesign
 
----
+
 
 ## MITRE ATT&CK Techniques Mapped
 
@@ -107,7 +107,7 @@ The objective of this project was to conduct a full wireless security assessment
 | T1110.002 | Password Cracking       |
 | T1669     | Wi-Fi Networks          |
 
----
+
 
 ## Assessment Evidence
 
@@ -137,7 +137,7 @@ The objective of this project was to conduct a full wireless security assessment
 
 ![Wireshark Analysis](screenshots_live_packet_capture.png)
 
----
+
 
 ## Key Findings
 
@@ -148,13 +148,13 @@ The objective of this project was to conduct a full wireless security assessment
 * Security monitoring controls could be enhanced through dedicated wireless SOC visibility.
 * MITRE ATT&CK techniques aligned with observed wireless attack paths.
 
----
+
 
 ## Full Assessment Report
 
 📄 [Download Full Report](report/NetworkShield_Wireless_Security_Assessment_Report.pdf)
 
----
+
 
 ## Disclaimer
 
