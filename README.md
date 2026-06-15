@@ -8,6 +8,14 @@ The project focused on evaluating wireless security weaknesses, attacker methodo
 
 The assessment was performed in a controlled and authorized laboratory environment for educational and defensive cybersecurity purposes.
 
+**Team:** NetworkShield Security Team
+
+**Contributors:**
+- Miracle Godwin Ogbo
+- Jessy Bievenue
+- Emmanuel Olofu
+
+**Date:** June 2026
 
 
 ## Project Task
@@ -151,7 +159,9 @@ The objective of this project was to conduct a full wireless security assessment
 
 ## Full Assessment Report
 
-📄 [Download Full Report](./NetworkShield_Wireless_Security_Assessment_Report.pdf)
+📄 Download the complete report below:
+
+ [Download Full Report](./NetworkShield_Wireless_Security_Assessment_Report.pdf)
 
 
 
