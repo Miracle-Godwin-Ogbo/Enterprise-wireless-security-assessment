@@ -8,6 +8,7 @@ The project focused on evaluating wireless security weaknesses, attacker methodo
 
 The assessment was performed in a controlled and authorized laboratory environment for educational and defensive cybersecurity purposes.
 
+## 
 **Team:** NetworkShield Security Team
 
 **Contributors:**
@@ -15,8 +16,8 @@ The assessment was performed in a controlled and authorized laboratory environme
 - Jessy Bievenue
 - Emmanuel Olofu
 
-##  **Date:** June 2026
-
+ **Date:** June 2026
+## 
 
 ## Project Task
 
